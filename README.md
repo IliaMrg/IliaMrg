@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IliaMrg
+- 👋 Hi, I’m @Persious_WOOD
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Python
 - 📫 can you reach me with my email
